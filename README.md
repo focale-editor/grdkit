@@ -6,8 +6,6 @@
 
 GrdKit is a pure Dart codec for Adobe Photoshop gradient libraries (`.grd`). It reads current descriptor-based libraries and legacy version 3 libraries, writes version 5 libraries, and preserves data it does not interpret. It has no Flutter or native-code dependency, and builds on the shared Photoshop primitives of [`pscore`](https://pub.dev/packages/pscore).
 
-The package is designed for editors such as Focale that need editable gradient presets, group paths, and access to complete Photoshop Action Descriptors.
-
 ## Supported data
 
 - `8BGR` version 5 libraries: a version 16 Action Descriptor holding the `GrdL` gradient list.
