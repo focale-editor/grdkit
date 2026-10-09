@@ -115,7 +115,7 @@ See [docs/GRD.md](docs/GRD.md) for the binary layout, descriptor mapping, preser
 ## References
 
 - [Photoshop Gradients File Format](https://tonton-pixel.codeberg.page/photoshop-file-formats/gradients-file-format.html)
-- [Gradient file formats](http://www.selapa.net/swatches/gradients/fileformats.php)
+- [Gradient file formats](https://www.selapa.net/swatches/gradients/fileformats.php)
 
 GrdKit is an independent implementation and is not affiliated with or endorsed by Adobe.
 
